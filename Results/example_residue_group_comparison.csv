@@ -1,0 +1,8 @@
+residue_label,residue_number,in_group_a,in_group_b,comparison_category
+ASP12,12,True,False,Group A only
+TYR14,14,True,True,Shared
+ARG15,15,True,False,Group A only
+ASN16,16,True,True,Shared
+VAL17,17,False,True,Group B only
+PHE18,18,True,True,Shared
+GLU19,19,False,True,Group B only

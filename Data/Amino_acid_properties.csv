@@ -1,0 +1,9 @@
+three_letter,one_letter,category,aromatic,charge
+ASP,D,Acidic,False,Negative
+GLU,E,Acidic,False,Negative
+ARG,R,Basic,False,Positive
+ASN,N,Polar uncharged,False,Neutral
+LEU,L,Hydrophobic,False,Neutral
+VAL,V,Hydrophobic,False,Neutral
+PHE,F,Aromatic,True,Neutral
+TYR,Y,Aromatic,True,Neutral
